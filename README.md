@@ -1,6 +1,6 @@
 ## sup yall👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Mark+Joseph;An+Aspiring+UI/UX+Developer+and+Freelance+Photographer+📷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Mark+Joseph;An+Aspiring+UI/UX+Designer+and+Freelance+Photographer+📷)](https://git.io/typing-svg)
 
 [![Visits](https://komarev.com/ghpvc/?username=astromrcz&color=03C988&style=flat&label=Profile+Views)](https://github.com/astromrcz)
 
